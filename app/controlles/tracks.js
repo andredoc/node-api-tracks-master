@@ -159,11 +159,9 @@ const createItem = async(req, res) => {
 
 
 const updateItem = (req, res) => {
-
 }
 
 const deleteItem = (req, res) => {
-
 }
 
 module.exports = { getItem, getItems, deleteItem, createItem, updateItem }
